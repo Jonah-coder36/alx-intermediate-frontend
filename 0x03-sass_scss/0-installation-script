@@ -1,1 +1,4 @@
-
+# Steps to install SASS
+1. Install Node.js
+2. Install SASS globally via npm
+3. Verify SASS installation
